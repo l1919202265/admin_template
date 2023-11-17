@@ -6,6 +6,8 @@ import App from './app.vue'
 
 const app = createApp(App)
 
+'hah'
+
 app.use(router)
 app.use(store)
 app.use(naive)
